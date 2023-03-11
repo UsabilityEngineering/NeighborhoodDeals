@@ -20,17 +20,6 @@ The goal of Neighborhood Deals is to provide a convenient and efficient way for 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-
-[Full phase I report](phaseI/)
-
-# Phase II: Refining interaction and designing wireframes
-
-**Executive Summary**
-
 The demand for buying and selling second-hand is higher than ever. Neighborhood Deals aims to provide its customers with a convenient and cost-effective way to connect with others in their area by providing a platform to post and locate second-hand items and yard sales in their locality. Through our research, we uncovered possibilities to revolutionize the user experience.
 
 * **Competitive analysis** revealed strengths, weaknesses, and opportunities for innovation in multiple segments, enabling us to differentiate our product and enhance the user experience.
@@ -49,6 +38,17 @@ The demand for buying and selling second-hand is higher than ever. Neighborhood 
   * **Effortless** walk-through of posting an item or yard sale
   * Steps necessary to **find user-specific yard sales**
   * **Guided fastest route** to visit relevant yard sales
+
+[Full phase I report](phaseI/)
+
+# Phase II: Refining interaction and designing wireframes
+
+**Executive Summary**
+
+* !!!In a bullet-list, provide a summary that highlights...!!!
+* !!!What you've done during this phase...!!!
+* !!!and what the significance of it is...!!!
+* !!!as an executive would understand.!!!
 
 [Full phase II report](phaseII/)
 
