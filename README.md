@@ -4,8 +4,8 @@ Neighborhood Deals aims to address the growing demand for sustainable and afford
 
 ## UX Team Members
 
-* **[Daniel Hawkins](https://usabilityengineering.github.io/ux-portfolio-dhawkins44/)** - !!!List of Person A's primary contributions!!!
-* **[Andrew Moskowitz](https://usabilityengineering.github.io/ux-portfolio-ThatOneGuy-96/)** - !!!List of Person B's primary contributions!!!
+* **[Daniel Hawkins](https://usabilityengineering.github.io/ux-portfolio-dhawkins44/)** - Participated an equal part in helping write the Executive Summary as well as the Report for Phase 1 of our Neighborhood Deal Project.
+* **[Andrew Moskowitz](https://usabilityengineering.github.io/ux-portfolio-ThatOneGuy-96/)** - Participated an equal part in helping write the Executive Summary as well as the Report for Phase 1 of our Neighborhood Deal Project.
 
 # User-Centered Design Artifacts
  
