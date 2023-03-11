@@ -1,14 +1,12 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
-# !!!Project Name!!!
+# Neighborhood Deals
 
 !!!Brief introduction to the project and the problem it is intended to solve!!!
+The goal of Neighborhood Deals is to provide a convenient and efficient way for people to discover and purchase second-hand items in their area.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Daniel Hawkins](https://usabilityengineering.github.io/ux-portfolio-dhawkins44/)** - !!!List of Person A's primary contributions!!!
+* **[Andrew Moskowitz](https://usabilityengineering.github.io/ux-portfolio-ThatOneGuy-96/)** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
  
