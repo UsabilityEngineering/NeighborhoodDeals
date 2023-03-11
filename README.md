@@ -31,10 +31,24 @@ The goal of Neighborhood Deals is to provide a convenient and efficient way for 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+The demand for buying and selling second-hand is higher than ever. Neighborhood Deals aims to provide its customers with a convenient and cost-effective way to connect with others in their area by providing a platform to post and locate second-hand items and yard sales in their locality. Through our research, we uncovered possibilities to revolutionize the user experience.
+
+* **Competitive analysis** revealed strengths, weaknesses, and opportunities for innovation in multiple segments, enabling us to differentiate our product and enhance the user experience.
+  * *Basic for sale sites* - Customers expressed the notion of these having an **unappealing layout** and nothing to entice them to use their site over a rival
+  * *Yard sale locators* - **Lack of mapping software**, item-specific **filtering**, and user **engagement**
+  * *Social media-based platforms* - Sites tend to be **cluttered** with irrelevant listings and ads, making it difficult to easily find targeted yard sale postings.
+
+* **Heuristic evaluation** of the competition revealed opportunities in the aesthetics of the design, error handling and prevention, and innovative features (i.e. routing software)
+
+* **Personas and Scenarios** clarify user needs:
+  * **Streamlined** processes with ease of use to provide a **quick experience**
+  * **Consolidation of features**: Search, post, and navigation in one app
+  * **New features**: Fastest routing to desired yard sale locations
+  
+* **Sketches and Diagrams** depict the initial concept:
+  * **Effortless** walk-through of posting an item or yard sale
+  * Steps necessary to **find user-specific yard sales**
+  * **Guided fastest route** to visit relevant yard sales
 
 [Full phase II report](phaseII/)
 
