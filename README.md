@@ -9,6 +9,8 @@ Neighborhood Deals aims to address the growing demand for sustainable and afford
 
 # User-Centered Design Artifacts
  
+* [Competitive Analysis](competitive_analysis/competitive_analysis.pdf)
+* [Heuristic Evaluation](heuristic_evaluation/heuristic_evaluation.pdf)
 * [Personas and Scenarios](personas/personas_and_scenarios.pdf)
 * [Sketches and Diagrams](sketches/neighborhood_deals_sketch.pdf)
 * [Wireframes](#) - Coming soon (phase II)!
