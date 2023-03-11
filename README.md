@@ -11,7 +11,7 @@ The goal of Neighborhood Deals is to provide a convenient and efficient way for 
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-* [Personas and Scenarios](personas/Personas and Scenarios.pdf)
+* [Personas and Scenarios](personas/personas_and_scenarios.pdf)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](#) - Coming soon (phase II)!
 * [Prototype](#) - Coming soon (phase III)!
