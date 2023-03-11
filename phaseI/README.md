@@ -14,7 +14,7 @@ We created [personas and scenarios](../personas/personas_and_scenarios.pdf) that
 
 Heuristic evaluation was conducted to assess competing apps’ usability and design against established UX principles and best practices. This helped to identify areas for improvement and provided recommendations for optimizing our app's user experience. Additionally, heuristic evaluation is a relatively quick and cost-effective method that can be performed by expert evaluators or even by non-experts with some training.
 
-We drew UX sketches to communicate design ideas and concepts, providing visual representations of proposed design changes and new features. These sketches were used to provide a visual prototype and to refine the UX design before implementation. We presented these sketches to the software engineering team to help them understand the overall user experience we were looking to achieve.
+We drew [UX sketches](../sketches/neighborhood_deals_sketch.pdf) to communicate design ideas and concepts, providing visual representations of proposed design changes and new features. These sketches were used to provide a visual prototype and to refine the UX design before implementation. We presented these sketches to the software engineering team to help them understand the overall user experience we were looking to achieve.
 By using a combination of these research methods, we have gained a comprehensive understanding of the competition and will use that information to support the development of a successful resale marketplace.
 
 ## Findings
@@ -25,7 +25,7 @@ We have identified various demographics that will use Neighborhood Deals by crea
 
 During our heuristic evaluation, we discovered that our competitors were deficient in some key areas that we could capitalize on to differentiate ourselves. Firstly, their design aesthetics were not up to par, often lacking unique design features. Secondly, their apps lacked adequate error handling and prevention features, leading to frustrating user experiences. Thirdly, our competitors had no new innovative features that set them apart from the rest of the market. Lastly, their apps were cluttered with excessive advertisements and postings that detracted from the user experience. By focusing on these areas and improving upon them, we believe we can create a superior app that will stand out from the competition.
 
-Drawing two UX sketches aided to visualize and communicate the user experience we were aiming for. They allowed for the ideation of different design solutions and aided in relaying our desired UX design to the software engineers.
+Drawing two [UX sketches](../sketches/neighborhood_deals_sketch.pdf) aided to visualize and communicate the user experience we were aiming for. They allowed for the ideation of different design solutions and aided in relaying our desired UX design to the software engineers.
 
 ## Conclusions
 
