@@ -9,7 +9,6 @@ Neighborhood Deals aims to address the growing demand for sustainable and afford
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/personas_and_scenarios.pdf)
 * [Sketches and Diagrams](sketches/neighborhood_deals_sketch.pdf)
 * [Wireframes](#) - Coming soon (phase II)!
