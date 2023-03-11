@@ -1,7 +1,6 @@
 # Neighborhood Deals
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
-The goal of Neighborhood Deals is to provide a convenient and efficient way for people to discover and purchase second-hand items in their area.
+Neighborhood Deals aims to address the growing demand for sustainable and affordable shopping options by creating a platform that connects buyers with sellers in their local community. By facilitating the exchange of second-hand goods, the app not only promotes the reuse of existing resources but also fosters a sense of community and reduces the environmental impact of traditional retail practices. With features like location-based searches, Neighborhood Deals offers a seamless and trustworthy way for people to find and purchase second-hand items that meet their specific needs and preferences.
 
 ## UX Team Members
 
