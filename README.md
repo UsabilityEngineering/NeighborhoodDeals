@@ -45,10 +45,10 @@ The demand for buying and selling second-hand is higher than ever. Neighborhood 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+Through user feedback from cognitive walkthroughs as well as information from our Software Engineering team, we are now able to prioritize what features are most important for our application and make design adjustments to better meet our user’s needs.
+
+* **Cognitive Walkthroughs** provided insight on the decision making process of our target users and determined strengths, weaknesses, and opportunities of the application’s current design.
+  * 
 
 [Full phase II report](phaseII/)
 
