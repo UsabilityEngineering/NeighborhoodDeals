@@ -48,7 +48,14 @@ The demand for buying and selling second-hand is higher than ever. Neighborhood 
 Through user feedback from cognitive walkthroughs as well as information from our Software Engineering team, we are now able to prioritize what features are most important for our application and make design adjustments to better meet our user’s needs.
 
 * **Cognitive Walkthroughs** provided insight on the decision making process of our target users and determined strengths, weaknesses, and opportunities of the application’s current design.
-  * 
+  * *Messaging Tracking* - Customers expressed the desire for a page on the application to **present the status of messages** sent to and from other users.
+  * *Ability to Share* - Customers wanted the ability to **share** an item or yard sale with other users or neighbors.
+* **Contributions from the Software Engineering Team** have given us a better understanding of the technical limitations of the software being used as well as feedback on our proposed usability designs.
+  * *Too many pages* - Our team noticed that each feature of our wireframe is on a different page and discussed the possibility of **integrating multiple features** on a single page.
+  * *Limitation of features* - As the deadline for our product approaches, we have had discussions about the possibility that not all of the **intended features** will be feasible to include.
+* **Wireframe** served as a blueprint to the design process and helped create structure and organization within the application.
+  * **Simplified visual representation** of the user interface
+  * Established **user flow, content hierarchy,** and **navigation**
 
 [Full phase II report](phaseII/)
 
