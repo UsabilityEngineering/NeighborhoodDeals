@@ -9,8 +9,6 @@ Neighborhood Deals aims to address the growing demand for sustainable and afford
 
 # User-Centered Design Artifacts
  
-* [Competitive Analysis](competitive_analysis/competitive_analysis.pdf)
-* [Heuristic Evaluation](heuristic_evaluation/heuristic_evaluation.pdf)
 * [Personas and Scenarios](personas/personas_and_scenarios.pdf)
 * [Sketches and Diagrams](sketches/neighborhood_deals_sketch.pdf)
 * [Wireframes](wireframes/README.md)
@@ -23,7 +21,7 @@ Neighborhood Deals aims to address the growing demand for sustainable and afford
 The demand for buying and selling second-hand is higher than ever. Neighborhood Deals aims to provide its customers with a convenient and cost-effective way to connect with others in their area by providing a platform to post and locate second-hand items and yard sales in their locality. Through our research, we uncovered possibilities to revolutionize the user experience.
 
 * **Competitive analysis** revealed strengths, weaknesses, and opportunities for innovation in multiple segments, enabling us to differentiate our product and enhance the user experience.
-  * *Basic for sale sites* - Customers expressed the notion of these having an **unappealing layout** and nothing to entice them to use their site over a rival
+  * *Basic For-sale sites* - Customers expressed the notion of these having an **unappealing layout** and nothing to entice them to use their site over a rival
   * *Yard sale locators* - **Lack of mapping software**, item-specific **filtering**, and user **engagement**
   * *Social media-based platforms* - Sites tend to be **cluttered** with irrelevant listings and ads, making it difficult to easily find targeted yard sale postings.
 
