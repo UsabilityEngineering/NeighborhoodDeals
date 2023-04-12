@@ -21,7 +21,7 @@
 <img src="Success - Arrived at Yard Sale.png" width="300" height="500">
 <img src="Success - Contacted Seller.png" width="300" height="500">
 <img src="Success - Item Posted.png" width="300" height="500">
-<img src="Success - Yard Sale post.png" width="300" height="500">
+<img src="Success - Yard Sale Post.png" width="300" height="500">
 <img src="Yard Sale Post.png" width="300" height="500">
 <img src="Yard Sale Search - Filters.png" width="300" height="500">
 <img src="Yard Sales Near User.png" width="300" height="500">
