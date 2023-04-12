@@ -2,7 +2,7 @@
 ![Advertise Yard Sale - Filters](./wireframes/Advertise Yard Sale - Filters.png)  
 
 <img src="Homepage.png" width="300" height="500">
-<img src="Advertise - extra info.png" width="300" height="500">
+<img src="Advertise - Extra Info.png" width="300" height="500">
 <img src="Advertise Yard Sale - Filters.png" width="300" height="500">
 <img src="Contact Seller.png" width="300" height="500">
 <img src="Item Post.png" width="300" height="500">
