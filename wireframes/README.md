@@ -6,7 +6,7 @@
 <img src="Advertise Yard Sale - Filters.png" width="300" height="500">
 <img src="Contact Seller.png" width="300" height="500">
 <img src="Item Post.png" width="300" height="500">
-<img src="Item Search.png" width="300" height="500">
+<img src="Item Search - Filters.png" width="300" height="500">
 <img src="Items for Sale Near User.png" width="300" height="500">
 <img src="List Item - Extra Info.png" width="300" height="500">
 <img src="List Item - Filters.png" width="300" height="500">
