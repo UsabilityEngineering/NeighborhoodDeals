@@ -4,18 +4,15 @@
 
 Neighborhood Deals aims to address the growing demand for sustainable and affordable shopping options by creating a platform that connects buyers with sellers in their local community. By facilitating the exchange of second-hand goods, the app not only promotes the reuse of existing resources but also fosters a sense of community and reduces the environmental impact of traditional retail practices. With features like location-based searches, Neighborhood Deals offers a seamless and trustworthy way for people to find and purchase second-hand items that meet their specific needs and preferences.
 
+During the initial development phase, we produced several design artifacts to aid our understanding of user needs and motivations. We developed personas and scenarios that highlighted user goals and behaviors when engaging with a second-hand item app. To communicate design ideas and concepts to our software development team, we created UX sketches that offered visual representations of the proposed design and features. These sketches served as the basis for a visual prototype, which helped us refine the UX design prior to implementation.
+
 ## Methods
 
 To gain a thorough understanding of the competition for our website, we used a combination of methods. We conducted online searches to identify competing apps and their features while taking note of what seemed to be working versus what needed to be either changed or updated. 
 
 A [competitive analysis](../competitive_analysis/competitive_analysis.pdf) was used to determine the strengths and weaknesses of key competitors in our industry, including their products, pricing structures, features, and available platforms. By leveraging these insights, we aim to create a product that provides a superior user experience and sets us apart from our competitors.
 
-We created [personas and scenarios](../personas/personas_and_scenarios.pdf) that helped to understand user needs and motivations, including their goals, pain points, and behaviors when using a second-hand item app. This information was used to create user-centric designs that address specific user needs.
-
 [Heuristic evaluation](../heuristic_evaluation/heuristic_evaluation.pdf) was conducted to assess competing apps’ usability and design against established UX principles and best practices. This helped to identify areas for improvement and provided recommendations for optimizing our app's user experience. Additionally, [heuristic evaluation](../heuristic_evaluation/heuristic_evaluation.pdf) is a relatively quick and cost-effective method that can be performed by expert evaluators or even by non-experts with some training.
-
-We drew [UX sketches](../sketches/neighborhood_deals_sketch.pdf) to communicate design ideas and concepts, providing visual representations of proposed design changes and new features. These sketches were used to provide a visual prototype and to refine the UX design before implementation. We presented these sketches to the software engineering team to help them understand the overall user experience we were looking to achieve.
-By using a combination of these research methods, we have gained a comprehensive understanding of the competition and will use that information to support the development of a successful resale marketplace.
 
 ## Findings
 
