@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In our second sprint for Neighborhood Deals, we made progress toward our ultimate objective: creating a yard sale and second-hand item app with unique features. This design and development phase focused on addressing key user stories that embodied the desired user experience. The sprint's primary goal was to develop a fully functional wireframe for the app, enabling users to conduct cognitive walkthroughs based on our personas' scenarios. The wireframe offered the necessary structure, functionality, and user flow for our app, allowing the cognitive walkthroughs to reveal the strengths and weaknesses of our current design.
+In our second sprint for Neighborhood Deals, we made progress toward our ultimate objective: creating a yard sale and second-hand item app with unique features. This design and development phase focused on addressing key user stories that embodied the desired user experience. The sprint's primary goal was to develop a fully functional [wireframe](../wireframe/README.md) for the app, enabling users to conduct cognitive walkthroughs based on our personas' scenarios. The wireframe offered the necessary structure, functionality, and user flow for our app, allowing the cognitive walkthroughs to reveal the strengths and weaknesses of our current design.
 
 ## Methods
 
