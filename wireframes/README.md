@@ -1,4 +1,4 @@
-To demonstrate our wireframe, we have decided to step through two tasks that a user would set out to do. The first being 
+To demonstrate our wireframe, we have decided to step through a number of tasks that a user would set out to do.
 <img src="Login Page.png" width="300" height="500">
 
 Once the user has logged in, they are greeted by the homepage.
