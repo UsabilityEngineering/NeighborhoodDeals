@@ -6,7 +6,7 @@ Once the user has logged in, they are greeted by the homepage.
 <img src="Homepage.png" width="300" height="500">
 
 
-If the user selects browse, a list of items for sale near the user appears.
+If the user selects "Browse", a list of items for sale near the user appears.
 
 <img src="Items for Sale Near User.png" width="300" height="500">
 
@@ -31,7 +31,7 @@ Another option is to click the menu button in the top left had corner which show
 <img src="Menu.png" width="300" height="500">
 
 
-If the user would like to advertise their yard sale, they choose that option from the menu. 
+If the user would like to advertise their yard sale, they choose the "Advertise your yard sale" button from the menu. 
 
 <img src="Advertise Yard Sale - Filters.png" width="300" height="500">
 
@@ -51,7 +51,7 @@ They can either edit their post and go back to filters page, go back to the home
 <img src="Yard Sale Post.png" width="300" height="500">
 
 
-From the menu drop-down, the user can then choose to search for yard sales.
+From the menu drop-down, the user can then choose to search for yard sales by pressing the "Search for yard sales" button.
 
 <img src="Yard Sale Search - Filters.png" width="300" height="500">
 
@@ -66,22 +66,64 @@ The user can then either go back to change the search filters, or view the sales
 <img src="Yard Sales Near User.png" width="300" height="500">
 
 
+If the user chooses one and clicks on it, they are brought to the page describing the post with the option to get the address of the yard sale from the button on the bottom of the page.
+
+<img src="Yard Sale Post.png" width="300" height="500">
 
 
-
-
+If the user clicks that button, they are brought to a page showing the yard sale location on Google Maps with the option to get directions through Google Maps.
 
 <img src="Search Results - Chosen Yard Sale.png" width="300" height="500">
-<img src="Search - Result Directions.png" width="300" height="500">
-<img src="Success - Arrived at Yard Sale.png" width="300" height="500">
-<img src="Item Search - Filters.png" width="300" height="500">
 
-----------------------------------------------------------
+
+Once the user presses the get directions button, Google Maps pops up with directions to the chosen yard sale. 
+
+<img src="Search - Result Directions.png" width="300" height="500">
+
+
+Once you have arrived at the yard sale, a success page pops up.
+
+<img src="Success - Arrived at Yard Sale.png" width="300" height="500">
+
+
+From the drop-down menu, the user can sell their used item by pressing the "Sell your used item" button. 
+
 <img src="List Item - Filters.png" width="300" height="500">
+
+
+Once the filters are chosen, the user can add additional information about their item.
+
 <img src="List Item - Extra Info.png" width="300" height="500">
 
-<img src="Saved Posts.png" width="300" height="500">
-<img src="Listed Yard Sales.png" width="300" height="500">
-<img src="Listed Items.png" width="300" height="500">
+
+They can then publish their item which leads to a success page that gives them the option to view their post, edit their post, or go back to the homepage.
+
 <img src="Success - Item Posted.png" width="300" height="500">
+
+
+From the drop-down menu, the user can then search for specific used items by pressing the "Search for used items" button.
+
+<img src="Item Search - Filters.png" width="300" height="500">
+
+
+Once the filters are filled in, the user can search for the item and is brought to a list of items near them.
+
+<img src="Items for Sale Near User.png" width="300" height="500">
+
+
+The user can also see their listed yard sales by selecting that button from the drop-down menu.
+
+<img src="Listed Yard Sales.png" width="300" height="500">
+
+
+The user can also see their listed items by selecting that button from the drop-down menu.
+
+<img src="Listed Items.png" width="300" height="500">
+
+
+
+The user can also see their saved posts by selecting thta button from the drop-down menu.
+
+<img src="Saved Posts.png" width="300" height="500">
+
 
