@@ -20,7 +20,7 @@ Neighborhood Deals aims to address the growing demand for sustainable and afford
 
 The demand for buying and selling second-hand is higher than ever. Neighborhood Deals aims to provide its customers with a convenient and cost-effective way to connect with others in their area by providing a platform to post and locate second-hand items and yard sales in their locality. Through our research, we uncovered possibilities to revolutionize the user experience.
 
-* **Competitive analysis** revealed strengths, weaknesses, and opportunities for innovation in multiple segments, enabling us to differentiate our product and enhance the user experience.
+* **Competitive analysis** revealed strengths, weaknesses, and opportunities for innovation in multiple segments, enabling us to differentiate our product and enhance the user experience. **Competitors' weaknesses** we aim to improve upon:
   * *Basic For-sale sites* - Customers expressed the notion of these having an **unappealing layout** and nothing to entice them to use their site over a rival
   * *Yard sale locators* - **Lack of mapping software**, item-specific **filtering**, and user **engagement**
   * *Social media-based platforms* - Sites tend to be **cluttered** with irrelevant listings and ads, making it difficult to easily find targeted yard sale postings.
