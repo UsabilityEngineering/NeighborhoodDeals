@@ -122,7 +122,7 @@ The user can also see their listed items by selecting that button from the drop-
 
 
 
-The user can also see their saved posts by selecting thta button from the drop-down menu.
+The user can also see their saved posts by selecting that button from the drop-down menu.
 
 <img src="Saved Posts.png" width="300" height="500">
 
