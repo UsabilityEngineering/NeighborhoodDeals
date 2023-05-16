@@ -12,7 +12,7 @@ Neighborhood Deals aims to address the growing demand for sustainable and afford
 * [Personas and Scenarios](personas/personas_and_scenarios.pdf)
 * [Sketches and Diagrams](sketches/neighborhood_deals_sketch.pdf)
 * [Wireframes](wireframes/README.md)
-* [Prototype](#) - Coming soon (phase III)!
+* [Prototype](https://xd.adobe.com/view/d31bc604-64ea-4e08-a66a-aee2785c28bf-8648/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
