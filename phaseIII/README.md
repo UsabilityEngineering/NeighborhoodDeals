@@ -6,11 +6,11 @@ The final phase of our app development journey has focused on creating a working
 
 We conducted a formative assessment involving five participants, observing their completion of five specific tasks while encouraging them to vocalize their thoughts. This process was recorded for later analysis. We followed a written protocol that enabled us to collect consistent data.
 
-### Background
+#### Background
 
 Participants were asked to describe their approach to selling a used item or listing a yard sale, as well as their process for buying secondhand items. They were also asked to suggest features they'd like in an app facilitating these tasks, and to identify any websites or applications they would typically use.
 
-### Tasks
+#### Tasks
 
 As participants carried out each task, we recorded their actions and their success in completing the task. We also asked them to rate the difficulty of each task on a scale of 1 (most difficult) to 5 (easiest).
 
