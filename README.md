@@ -48,9 +48,11 @@ Through user feedback from cognitive walkthroughs as well as information from ou
 * **Cognitive Walkthroughs** provided insight on the decision making process of our target users and determined strengths, weaknesses, and opportunities of the application’s current design.
   * *Messaging Tracking* - Customers expressed the desire for a page on the application to **present the status of messages** sent to and from other users.
   * *Ability to Share* - Customers wanted the ability to **share** an item or yard sale with other users or neighbors.
+
 * **Contributions from the Software Engineering Team** have given us a better understanding of the technical limitations of the software being used as well as feedback on our proposed usability designs.
   * *Consolidate Features* - Our team noticed that each feature of our wireframe is on a different page and discussed the possibility of **integrating multiple features** on a single page.
   * *Limitation of features* - As the deadline for our product approaches, we have had discussions about the possibility that not all of the **intended features** will be feasible to include.
+
 * **Wireframe** served as a blueprint to the design process and helped create structure and organization within the application.
   * **Simplified visual representation** of the user interface
   * Established **user flow, content hierarchy,** and **navigation**
@@ -61,9 +63,25 @@ Through user feedback from cognitive walkthroughs as well as information from ou
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+We conducted a formative assessment with five participants to assess our progress on Neighborhood Deals and identify potential areas for improvement.
+
+* Participants were asked about their use of **competing applications**.
+  * What **steps** they would take to **sell a used item or post a yard sale**.
+  * How they would **find a used item to buy or a yard sale to go to**.
+  * What **features** are **important to them** when doing these tasks.
+
+* Participants were asked to **complete five tasks** thinking aloud as they went:
+  * **Search for a specific item** near them
+  * **Find nearby yard sales** using **list view**
+  * **Post a used item** of theirs
+  * **Find nearby yard sale** with a **specific tag** using map view
+  * **Post a yard sale** with a **specific tag**
+
+* Participants were asked questions about their **experience using Neighborhood Deals**
+  * Overall **feedback was positive** with each participant
+  * Participants **appreciated the map and directions** feature for yard sales
+  * **Simplicity of use** was a key positive throughout
+  * An ability to link to **social media** was desired
+  * **Navigation** suggestions will **help streamline** some tasks
 
 [Full phase III report](phaseIII/)
